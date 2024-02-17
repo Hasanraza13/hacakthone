@@ -1,0 +1,18 @@
+/* body{
+
+    background-color: rgb(241, 166, 5);
+} */
+.navbar-custom img{
+    filter: grayscale(1) brightness(0);
+}
+/* .navbar-brand{
+    margin-top: 25%;
+} */
+/* .carousel-item{
+    height: auto;
+    width: auto;
+} */
+.w-90{
+    height: 450px;
+    width: 1500px;
+}
